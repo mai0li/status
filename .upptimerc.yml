@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: mai0li # Your GitHub username
+repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -14,19 +14,23 @@ sites:
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD
     method: HEAD
-    url: https://www.google.com
+    url: https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO:28715
   - name: Secret Site
     url: $SECRET_SITE
   - name: TCP ping
     url: 1.1.1.1
+  - name: Banco Central
+    url: https://www4.bcb.gov.br/pom/demab/negociacoes/
+    expectedStatusCodes:
+    - 403
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: PM-Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
