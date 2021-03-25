@@ -6,7 +6,11 @@ repo: status # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Test for HEAD (Tesouro SisWeb)
+  - name: B3 (Cotação)
+    url: http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/
+  - name: B3 (Negociação Diária)
+    url: http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/boletins-diarios/pesquisa-por-pregao/pesquisa-por-pregao/
+  - name: Tesouro SisWeb (HEAD request)
     method: HEAD
     url: https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO:28715
   - name: Banco Central (403)
