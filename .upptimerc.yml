@@ -6,23 +6,15 @@ repo: status # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
+  - name: Test for HEAD (Tesouro SisWeb)
     method: HEAD
     url: https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO:28715
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
-  - name: Banco Central
+  - name: Banco Central (403)
     url: https://www4.bcb.gov.br/pom/demab/negociacoes/
     expectedStatusCodes:
     - 403
+  - name: Debentures SND
+    url: http://www.debentures.com.br/exploreosnd/consultaadados/eventosfinanceiros/pudeeventos_r.asp
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
