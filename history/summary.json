@@ -40,7 +40,7 @@
     "url": "http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/boletins-diarios/pesquisa-por-pregao/pesquisa-por-pregao/",
     "icon": "https://favicons.githubusercontent.com/www.b3.com.br",
     "slug": "b3-negociacao-diaria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,7 +67,7 @@
     "time": 1488,
     "timeDay": 1277,
     "timeWeek": 1100,
-    "timeMonth": 1158,
+    "timeMonth": 1127,
     "timeYear": 1488,
     "dailyMinutesDown": {}
   },
