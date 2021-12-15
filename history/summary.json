@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1582,
     "timeDay": 2388,
-    "timeWeek": 2205,
+    "timeWeek": 2367,
     "timeMonth": 2238,
     "timeYear": 1582,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 742,
     "timeDay": 1855,
-    "timeWeek": 1500,
+    "timeWeek": 1615,
     "timeMonth": 1602,
     "timeYear": 742,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "https://www4.bcb.gov.br/pom/demab/negociacoes/",
     "icon": "https://favicons.githubusercontent.com/www4.bcb.gov.br",
     "slug": "banco-central-403",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,7 +85,7 @@
     "time": 1027,
     "timeDay": 1042,
     "timeWeek": 1247,
-    "timeMonth": 1023,
+    "timeMonth": 1028,
     "timeYear": 1027,
     "dailyMinutesDown": {}
   },
