@@ -76,7 +76,7 @@
     "url": "https://www4.bcb.gov.br/pom/demab/negociacoes/",
     "icon": "https://favicons.githubusercontent.com/www4.bcb.gov.br",
     "slug": "banco-central-403",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,7 +85,7 @@
     "time": 1222,
     "timeDay": 861,
     "timeWeek": 1038,
-    "timeMonth": 2238,
+    "timeMonth": 2250,
     "timeYear": 1222,
     "dailyMinutesDown": {}
   },
