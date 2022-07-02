@@ -58,7 +58,7 @@
     "url": "https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO:28715",
     "icon": "https://favicons.githubusercontent.com/sisweb.tesouro.gov.br",
     "slug": "tesouro-sis-web-head-request",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1168,
     "timeDay": 975,
-    "timeWeek": 1061,
+    "timeWeek": 1082,
     "timeMonth": 1063,
     "timeYear": 1218,
     "dailyMinutesDown": {}
