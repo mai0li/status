@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1717,
     "timeDay": 1669,
-    "timeWeek": 1391,
+    "timeWeek": 1443,
     "timeMonth": 1400,
     "timeYear": 1588,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1413,
     "timeDay": 1514,
-    "timeWeek": 1192,
+    "timeWeek": 1230,
     "timeMonth": 1306,
     "timeYear": 1331,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO:28715",
     "icon": "https://favicons.githubusercontent.com/sisweb.tesouro.gov.br",
     "slug": "tesouro-sis-web-head-request",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1019,
     "timeDay": 987,
-    "timeWeek": 935,
+    "timeWeek": 958,
     "timeMonth": 932,
     "timeYear": 984,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1166,
     "timeDay": 961,
-    "timeWeek": 983,
+    "timeWeek": 976,
     "timeMonth": 996,
     "timeYear": 1034,
     "dailyMinutesDown": {}
